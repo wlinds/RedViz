@@ -9,6 +9,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
+pyqt5 = "*"
 
 [dev-packages]
 ipykernel = "*"
